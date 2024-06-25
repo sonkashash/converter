@@ -2,7 +2,7 @@
 
 # Конвертер валют
 
-[Демо](https://667b0b497ae555137d7e120a--endearing-puppy-4d1d85.netlify.app)
+[Демо](https://667b1a4676cc4b5fe9b99311--fancy-sunburst-cc3096.netlify.app)
 
 ## Условие задания
 
