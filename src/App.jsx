@@ -11,7 +11,7 @@ function App() {
   return (
     <div className='converter-container'>
       <h1 className='converter-container__title'>Converter</h1>
-      <CurrencyBlock currency="USD" value={dollars} onChange={(value) => console.log(value)}/>
+      <CurrencyBlock currency="USD" value={dollars} onChange={(value) => console.log(value)} />
       <CurrencyBlock currency="EUR" value={euros} onChange={(value) => console.log(value)} />
     </div>
   );
