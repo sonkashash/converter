@@ -11,6 +11,17 @@
 Курс обмена EUR/USD принять равным 1.07.
 В качестве стейт менеджера допускается использование Zustand, MobX, Redux (хранить данные через useState в данном тестовом задании не приветствуется).
 
+## Локальный запуск 
+```
+git clone https://github.com/sonkashash/converter
+cd converter
+npm start
+```
+
+## Технологии
+
+
+
 
 
 
