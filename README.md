@@ -22,8 +22,8 @@ npm start
 ## Технологии
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
-![Redux](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-CA4245?style=for-the-badge&logo=redux&logoColor=white)
 
 
 
