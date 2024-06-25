@@ -58,3 +58,9 @@ input:focus {
   margin-bottom: 20px;
   color: var(--white);
 }
+
+.error {
+  color: rgb(182, 27, 27);
+  font-size: 18px;
+  font-family: sans-serif;
+}
