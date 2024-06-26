@@ -13,7 +13,7 @@ const converterReducer = createReducer(initialState, (builder) => {
   builder
     .addCase(setDollars, (state, action) => {
       const dollars = action.payload;
-      const regex = /^[0-9]*\.?[0-9]*$/; // Регулярное выражение для чисел с десятичной точкой
+      const regex = /^[0-9]*\.?[0-9]*$/;
       if (regex.test(dollars)) {
         const euros = (dollars / exchangeRate).toFixed(2);
         state.dollars = dollars;
